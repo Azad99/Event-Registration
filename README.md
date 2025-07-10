@@ -1,4 +1,4 @@
-# Event Registration Kiosk
+# Event Registration
 
 A modern German event discovery platform built with Next.js and TypeScript. Browse local events, parties, concerts, and cultural activities with an intuitive interface featuring location-based search, category filtering, and detailed event information.
 
